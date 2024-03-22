@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shahadat551/sdt-country/static/css/main.e7fc9b63.css",
+    "main.js": "/shahadat551/sdt-country/static/js/main.3bcfbeba.js",
+    "index.html": "/shahadat551/sdt-country/index.html",
+    "main.e7fc9b63.css.map": "/shahadat551/sdt-country/static/css/main.e7fc9b63.css.map",
+    "main.3bcfbeba.js.map": "/shahadat551/sdt-country/static/js/main.3bcfbeba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7fc9b63.css",
+    "static/js/main.3bcfbeba.js"
+  ]
+}

@@ -1,0 +1,8 @@
+.country:hover {
+  opacity: 0.9;
+}
+.country Button:hover {
+  transition: all 0.5s;
+  transform: scale(1.1);
+  color: red;
+}
